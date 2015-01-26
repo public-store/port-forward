@@ -1,0 +1,30 @@
+{
+  "name": "node-transport",
+  "version": "0.0.0",
+  "description": "Socket transport for node.js",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "moment": "~2.9.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Lellansin/node-transport.git"
+  },
+  "keywords": [
+    "net",
+    "transport"
+  ],
+  "author": "Lellansin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Lellansin/node-transport/issues"
+  },
+  "homepage": "https://github.com/Lellansin/node-transport"
+}
